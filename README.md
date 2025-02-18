@@ -20,9 +20,11 @@ Agentic rag is a project that leverages the LangChain framework to create an int
    cd agentic-ai
    
 2. Install the required packages:
+     ```bash
     pip install -r requirements1.txt
    
 3.Set up environment variables: Create a .env file in the root directory and add your GROQ_API_KEY:
+   
     GROQ_API_KEY=your_groq_api_key
 
 
